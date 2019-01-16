@@ -3,7 +3,7 @@
 Простой скрипт для преобразования текста в растр.
 Для его работы достаточно набрать такую команду:
 ```sh
-some_translations.json | ./nichilator.py
+cat some_translations.json | ./nichilator.py
 ```
 
 И он сам сгенерирует всё необходимое.
